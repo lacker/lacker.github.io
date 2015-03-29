@@ -1,11 +1,15 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I was born in Los Angeles in 1980, first child of a librarian and a
+pediatrician. A couple years later, we moved to Cincinnati, where I
+would spend the rest of my childhood.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+As a kid in the Midwest I was proud of being born in California,
+although I didn't remember anything about it. It just made me feel
+special.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+TODO: write more
