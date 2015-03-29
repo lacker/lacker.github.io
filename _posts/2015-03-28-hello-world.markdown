@@ -11,7 +11,8 @@ but unfortunately I was using some "Blogspot for your domain" product
 that was deprecated over the subsequent decade.
 
 This time, I'm betting that plain old HTML will be a format for the
-ages.
+ages. Also .info is so lame now! So [lacker.io](http://lacker.io) is
+where it's at.
 
 I'm using Jekyll to generate that HTML because I liked it when we used
 it for the original
@@ -26,4 +27,5 @@ def is_that_really_necessary(blogger):
   raise "TODO: implement logic here"
 {% endhighlight %}
 
-
+And so it begins. I'm really curious what people would want me to blog
+about, so let me know.
