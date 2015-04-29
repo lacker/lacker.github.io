@@ -1,0 +1,107 @@
+---
+layout: post
+title:  "Book Review of 'Sapiens: A Brief History of Humankind'"
+date: 2015-04-28 20:32:00
+categories: books
+---
+
+"History" can mean a lot of things. The traditional history book
+reminds me of history class in high school. There's some period of
+American or European history and you are encouraged to memorize a list
+of naval battles. [Sapiens: A Brief History of
+Humankind](http://www.amazon.com/Sapiens-A-Brief-History-Humankind/dp/0062316095)
+by Yuval Harari is not a traditional history book.
+
+The thing about history is that there is so much of it. Even in a
+single year. Think of all the things that happened in 2014. This
+amount of stuff probably also happened in 1492. We just have decided
+that we only care about a portion of it. So a normal history ends up
+being a history of politics. A history of kings, nations, wars, and
+conquest.
+
+Instead, this book steps back and takes a broader view. What
+are the three most important events in human history? Harari picks
+three revolutions: the Cognitive, Agricultural, and Scientific
+revolutions.
+
+The Cognitive Revolution is when human beings went from being just
+like other animals to being unique. The key was the ability to spread
+culture - communication that helped humans coordinate better
+and learn faster than DNA-based evolution allowed. We usually take it
+for granted that humans dominate animals but it wasn't always the
+case, and it's interesting to think of verbal communication as a
+technology of war that let us defeat animals that previously were our
+predators.
+
+One theme of this book is confronting painful truths. For example, we
+know from the fossil record that there used to be different species
+similar to humans, like Neanderthals. What happened to them?
+Was *Homo Sapiens* the eventual victor because of our ability to
+genocidally destroy the other human species? We will never know for
+sure but it seems like yes.
+
+The Agricultural Revolution was when we started farming. This book
+makes the case also made in [Guns, Germs, and
+Steel](http://www.amazon.com/Guns-Germs-Steel-Fates-Societies/dp/0393317552)
+that the invention of farming was actually pretty terrible for the
+average human. Our lives were worse as farmers. It's just that farming
+could feed far more people than hunting and gathering, so the farming
+way of life won out.
+
+I don't agree with this argument, because I don't think individual
+human happiness is the right metric to aim for. Personally I think the
+world became a
+better place with ten million humans than with one million, primarily
+because it's pretty cool that those extra nine million get to
+live. But I can understand how people would disagree here.
+
+*Sapiens* is similar to *Guns, Germs, and Steel* in many ways. If you
+ liked one, there's a good chance you'd like the other. They both look
+ at a broad stretch of human history, disregard the "standard
+ historical important stuff", and ask what was the real important
+ factors that led to this outcome. Overall, this book is much more
+ willing to come to controversial conclusions. I found it a
+ bit suspicious that *Guns, Germs, and Steel* came to only conclusions
+ that social science academics would agree with politically.
+
+The best example comes in the discussion of the Scientific
+Revolution, which Harari describes as about 1500 to the present. The
+main events in world history during this period are basically
+Europeans violently taking over the world, and there's the obvious
+question of why Europeans?
+
+Framing all of human history as these three revolutions, there are
+obvious parallels between the three. It seems pretty likely that *Homo
+Sapiens* became the only *Homo* species by killing off the other
+ones. There is even more evidence in the agricultural era that farming
+societies were much stronger militarily and frequently wiped out
+non-agricultural societies. And then a similar thing happened again in
+the Scientific era, where European cultures got military dominance
+over the rest of the world, and while they did not actually slaughter
+everyone they at least spread their culture everywhere. Nowadays every
+patch of ground is part of a nation-state and all of the leaders wear
+suits and spend money. So each of these revolutions was not just a
+revolution in everyday life,
+but also a revolution in military technology that let the new order
+violently displace the old.
+
+So why Europeans? Harari basically concludes, there's no fundamental
+reason. It's just the culture that happened to get scientific
+first. More than science, it's the idea of "progress" - that society
+can be improved, by discovering new technology, new lands, new all
+sorts of things.
+
+Another controversial theme of this book is drawing parallels between
+different human ideas. For example, Harari classifies many things as
+"fictions that help societies despite being biologically false". All
+religions, ideologies like communism and capitalism, principles like
+human rights, concepts like nations, everyday conventions like the use
+of money and the concept of ownership. How much difference is there
+between believing in a sun god and believing in free markets? How much
+difference is there between believing your country was destined to
+rule the world and believing your species was destined to rule the
+world? Why do we believe what we believe?
+
+Overall I found pondering these questions to be a lot of fun and I
+would recommend this book to anyone who likes thinking about what it
+means to be human.
