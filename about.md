@@ -12,4 +12,6 @@ As a kid in the Midwest I was proud of being born in California,
 although I didn't remember anything about it. It just made me feel
 special.
 
+When I was growing up I read a lot of books. I still read a lot of books.
+
 TODO: write more
