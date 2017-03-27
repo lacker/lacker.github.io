@@ -1,0 +1,9 @@
+To run the site locally:
+
+`jekyll serve`
+
+and go to `localhost:4000`
+
+To deploy, just push to GitHub.
+
+To create a new post, make a markdown file in `_posts`.
