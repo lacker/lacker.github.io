@@ -14,4 +14,14 @@ special.
 
 When I was growing up I read a lot of books. I still read a lot of books.
 
+I liked solving math puzzles, and I was pretty good at it. In high
+school I went to the International Math Olympiad, and in college I was
+a Putnam medalist twice.
+
+At first my career plan was to become a math professor. But about
+halfway through college, math classes started to feel a bit boring. It
+was also 1999, the dot-com boom was exciting, and I thought maybe
+artificial general intelligence was possible soon. I switched into
+computer science and liked it a lot.
+
 TODO: write more
