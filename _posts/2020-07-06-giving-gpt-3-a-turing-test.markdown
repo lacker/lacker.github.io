@@ -285,6 +285,27 @@ it about the result of a sequence of operations.
 It's like GPT-3 has a limited short-term memory, and has trouble reasoning
 about more than one or two objects in a sentence.
 
+## Additional Discussion
+
+It's important to understand that the GPT-3 model's behavior can
+change drastically with different prompts. In particular, all of the
+examples above are using the same default prompt, which doesn't give
+any examples of nonsense questions, or of sequential operations.
+
+It's possible to improve GPT-3's performance on the specific tasks above by
+including a prompt solving similar problems. Here are some examples:
+
+* [Nick Cammarata demonstrating a prompt that handles nonsense questions](https://twitter.com/nicklovescode/status/1284050958977130497)
+* [Gwern showing how GPT-3 can express uncertainty](https://www.gwern.net/GPT-3#expressing-uncertainty)
+* [Gwern showing how GPT-3 can handle sequential operations](https://www.gwern.net/GPT-3#the-database-prompt)
+  
+<br/>
+Right now, we are mostly seeing what GPT-3 can do "out of the
+box". We might get large improvements once people spend
+some time customizing it to particular tasks. If you'd like to get a
+better sense of what can be done with prompt customization, Gwern's
+exposition is excellent. Do read the whole thing.
+
 ## Conclusion
 
 We have certainly come a long way. The state of the art before modern
