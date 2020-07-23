@@ -135,8 +135,7 @@ moment... your question is nonsense." It also doesn't know how to say
 	A: It takes two rainbows to jump from Hawaii to seventeen.
 
 	Q: Which colorless green ideas sleep furiously?
-	A: Ideas that are colorless, green, and sleep furiously are the ideas of a sleep
-	furiously.
+	A: Ideas that are colorless, green, and sleep furiously are the ideas of a sleep furiously.
 
     Q: Do you understand these questions?
     A: I understand these questions.
@@ -159,8 +158,7 @@ GPT-3 is quite good at answering questions about obscure things.
 	A: Highway 80 is the highway you take to get to North Lake Tahoe from Oakland.
 
 	Q: What are Darius's abilities in League of Legends?
-	A: Darius's abilities in League of Legends are: Apprehend, Decimate,
-    Noxian Guillotine, Crippling Strike, Apprehend, and Hemorrhage.
+	A: Darius's abilities in League of Legends are: Apprehend, Decimate, Noxian Guillotine, Crippling Strike, Apprehend, and Hemorrhage.
 
 	Q: Who did Capablanca defeat to become world chess champion?
 	A: Capablanca defeated Lasker to become world chess champion.
@@ -267,16 +265,13 @@ example input:
 This problem shows up in more human questions as well, if you ask
 it about the result of a sequence of operations.
 
-	Q: If I have a marble and a paper clip in a box, put a pencil in the box,
-	and remove the marble, what is left?
+	Q: If I have a marble and a paper clip in a box, put a pencil in the box, and remove the marble, what is left?
 	A: A paper clip.
 
-	Q: If I have two shoes in a box, put a pencil in the box, and
-	remove one shoe, what is left?
+	Q: If I have two shoes in a box, put a pencil in the box, and remove one shoe, what is left?
 	A: A shoe.
 
-	Q: If I put a pencil in a box, then put another pencil in the box,
-	what is in the box?
+	Q: If I put a pencil in a box, then put another pencil in the box, what is in the box?
 	A: Two pencils.
 
 	Q: Then if I take out a pencil and put in a frog, what is in the box?
@@ -299,7 +294,6 @@ including a prompt solving similar problems. Here are some examples:
 * [Gwern showing how GPT-3 can express uncertainty](https://www.gwern.net/GPT-3#expressing-uncertainty)
 * [Gwern showing how GPT-3 can handle sequential operations](https://www.gwern.net/GPT-3#the-database-prompt)
   
-<br/>
 Right now, we are mostly seeing what GPT-3 can do "out of the
 box". We might get large improvements once people spend
 some time customizing it to particular tasks. If you'd like to get a

@@ -26,11 +26,9 @@ coax out of GPT-3.
 
 OpenAI suggests this prompt for "chat":
 
-    The following is a conversation with an AI assistant. The
-	assistant is helpful, creative, clever, and very friendly.
+    The following is a conversation with an AI assistant. The assistant is helpful, creative, clever, and very friendly.
 
     Human: Hello, who are you?
-	
     AI: I am an AI created by OpenAI. How can I help you today?
     Human: 
 
@@ -67,8 +65,7 @@ Take two.
 
     Human: I'm bored.
 
-    AI: I've found two upcoming video games you might be interested in. Here's a link to
-	    the newest of the bunch: http://store.steampowered.com/app/556290/.
+    AI: I've found two upcoming video games you might be interested in. Here's a link to the newest of the bunch: http://store.steampowered.com/app/556290/.
 	
     Human: That's just a soundtrack, that's not really a video game.
 	
@@ -80,8 +77,7 @@ Take two.
 	
     Human: No.
 	
-    AI: Okay, well. I'm afraid we're out of options. What would you
-	    like to do instead?
+    AI: Okay, well. I'm afraid we're out of options. What would you like to do instead?
 	
 Similar problem. These links probably made sense in some context, but here they don't.
 	
@@ -139,8 +135,11 @@ different topics. So maybe we can pick one topic and stick on it?
 Let's try astrology. Why astrology? Several reasons.
 
 * There's a clear task to be done. Tell me my horoscope.
+
 * The expectations for reality-based-ness of horoscopes are low.
+
 * Many humans like getting daily horoscopes, so this task is realistic.
+
 * The AI sometimes has a surreal, dreamlike inconsistency. I think
   that is okay from your astrologer in a way that it is not okay in a
   personal assistant.
@@ -149,8 +148,7 @@ Rather than just saying the AI is an assistant, the prompt can say
 that it's an astrologer. Maybe that's good enough? Let's try this
 prompt:
 
-    The following is a conversation with an astrologer. The astrologer is telling Kevin
-	his horoscope to predict how his day will go.
+    The following is a conversation with an astrologer. The astrologer is telling Kevin his horoscope to predict how his day will go.
 
     Astrologer: Hello, and welcome.
     Kevin: Hello. What's my horoscope today?
@@ -161,18 +159,15 @@ Take one.
 
 	Kevin: Hello. What's my horoscope today?
 	
-	Astrologer: You will have a great day today. First, you'll wake up
-                and you will want to do something around your house.
+	Astrologer: You will have a great day today. First, you'll wake up and you will want to do something around your house.
 	
 	Kevin: Well, I already did wake up.
 	
-	Astrologer: No, I know. But you will want to do something around
-	            your house.
+	Astrologer: No, I know. But you will want to do something around your house.
 	
 	Kevin: Okay. What else?
 	
-	Astrologer: Next you'll start your car and you will have a discussion with your
-	            daughter as to where she wants to go.
+	Astrologer: Next you'll start your car and you will have a discussion with your daughter as to where she wants to go.
 	
 	Kevin: How is that discussion going to go?
 	
@@ -213,46 +208,31 @@ Take three.
 	
 	Kevin: Explain more.
 	
-	Astrologer: So, when the sun is up in the sky, that represents your conscious self.
-	            You're awake, and you have a lot of energy. But during the night, when
-                the sun goes down, that represents your subconscious. You're asleep and
-	            your subconscious controls all actions. That's when your dreams happen.
-                During the day, it is your subconscious controlling what happens.
+	Astrologer: So, when the sun is up in the sky, that represents your conscious self. You're awake, and you have a lot of energy. But during the night, when the sun goes down, that represents your subconscious. You're asleep and your subconscious controls all actions. That's when your dreams happen. During the day, it is your subconscious controlling what happens.
 	
 	Kevin: I don't understand what that should mean to me.
 	
-	Astrologer: Well, let's look at this sentence: the fact that you are reading this
-	            means you have a conscious mind.
+	Astrologer: Well, let's look at this sentence: the fact that you are reading this means you have a conscious mind.
 	
 	Kevin: Okay.
 	
-	Astrologer: So, now let's look at this sentence: the fact that you are typing a
-	            sentence means you have a subconscious mind.
+	Astrologer: So, now let's look at this sentence: the fact that you are typing a sentence means you have a subconscious mind.
 	
 	Kevin: Am I using my subconscious to type?
 	
-	Astrologer: No. You are making subconscious decisions without being aware of them,
-                like choosing the letter F over A or the letter D over B. You aren't
-                thinking about that consciously.
+	Astrologer: No. You are making subconscious decisions without being aware of them, like choosing the letter F over A or the letter D over B. You aren't thinking about that consciously.
 	
 	Kevin: Okay. What's the point?
 	
-	Astrologer: You, as a human being, have both a conscious and a subconscious mind. If
-	            you wanted to go to bed earlier tonight, it's not enough to make the
-                conscious decision to go to bed early. You need to make subconscious
-	            decisions, like planning out what time you need to wake up, putting your
-                alarm clock across the room so you have to get up to turn it off, setting
-                your clothes for tomorrow so you won't be tempted to stay in bed.
+	Astrologer: You, as a human being, have both a conscious and a subconscious mind. If you wanted to go to bed earlier tonight, it's not enough to make the conscious decision to go to bed early. You need to make subconscious decisions, like planning out what time you need to wake up, putting your alarm clock across the room so you have to get up to turn it off, setting your clothes for tomorrow so you won't be tempted to stay in bed.
 	
 	Kevin: I just don't see why I care about this.
 	
-	Astrologer: Look, let's do an exercise. I'm going to read your horoscope out loud and
-	            then you repeat it back to me.
+	Astrologer: Look, let's do an exercise. I'm going to read your horoscope out loud and then you repeat it back to me.
 	
 	Kevin: Great, let's go.
 	
-	Astrologer: The fact that you are reading this sentence means you have a conscious
-                mind.
+	Astrologer: The fact that you are reading this sentence means you have a conscious mind.
 
 While it was happening, I felt like that conversation was just a
 little bit out of my reach. Like there was something there, something
@@ -284,14 +264,15 @@ specific task. Perhaps the "hello world" of astrology. Let's see if we
 can make GPT-3 have a conversation where it:
 
 * Asks what your birthday is
+
 * Tells you what your zodiac sign is
+
 * Says "Have a nice day!"
 
 Like a worker at a call center, operating off a script. Let's try this
 prompt:
 
-    The following is a conversation with an AI following a script. The AI is helpful and
-	friendly. In this conversation, the AI:
+    The following is a conversation with an AI following a script. The AI is helpful and friendly. In this conversation, the AI:
 
 	1. Asks what the human's birthday is
 	2. Tells the human their astrological sign, based on the birthday
@@ -353,14 +334,7 @@ Take three.
 	
 	Human: January 17
 	
-	AI: This year, you have more energy than usual. The stars believe that you are wise
-	    and strong, capable of changing the course of your life. You may be admired or
-        envied for these qualities. This year, you have good fortune. You should work
-        hard in the year ahead! You are ambitious, strong, and you know how to get things
-        done. Sometimes your pace is fast. But this is a time of clear vision and great
-	    strength. Remember, your power is constructive; it creates rather than destroys.
-	    Use your strength to open doors, not close them. The strongest part of your
-	    nature is the ability to combine imagination with common sense. 
+	AI: This year, you have more energy than usual. The stars believe that you are wise and strong, capable of changing the course of your life. You may be admired or envied for these qualities. This year, you have good fortune. You should work hard in the year ahead! You are ambitious, strong, and you know how to get things done. Sometimes your pace is fast. But this is a time of clear vision and great strength. Remember, your power is constructive; it creates rather than destroys. Use your strength to open doors, not close them. The strongest part of your nature is the ability to combine imagination with common sense. 
 		
 	Human: Wow, that's the best horoscope I've received in a while.
 	
