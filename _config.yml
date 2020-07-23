@@ -8,5 +8,8 @@ url: "http://lacker.io" # the base hostname & protocol for your site
 twitter_username: lacker
 github_username:  lacker
 
+plugins: [jekyll-paginate]
+paginate: 5
+
 # Build settings
 markdown: kramdown
