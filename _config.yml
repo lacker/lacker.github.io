@@ -1,8 +1,7 @@
 # Site settings
 title: "Kevin Lacker's blog"
-# email: lacker at gmail
 description: > # this means to ignore newlines until "baseurl:"
-  Ignorance is Strength
+  TODO: insert description here
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://lacker.io" # the base hostname & protocol for your site
 twitter_username: lacker
