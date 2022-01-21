@@ -164,8 +164,8 @@ line when you point at a particular target, and no diagonal line when
 you point away from that target. When you see something, notify the
 humans to check it out.
 
-I have theories about how well this stuff is working, the
+I have theories about how well this is working, the
 parts that could be improved, why we should build a moon base, all
-sorts of things. But this post is getting long so I think I'll call it
-here. Let me know if you have any questions about this stuff - I think
+sorts of ideas. But this post is getting long so I think I'll call it
+here. Let me know if you have any questions - I think
 the process of explaining it helps me understand things better myself.
