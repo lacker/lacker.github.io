@@ -49,7 +49,14 @@ limited. But the rigorous definition of "real
 numbers" requires an infinite sequence of numbers getting closer and
 closer. The mathematics doesn't work if small numbers are prevented
 from going smaller than the Planck length. A circle of radius 1
-doesn't really have a circumference of pi - it's a little bit off.
+doesn't really have an area of pi - it's a little bit off.
+
+<!--
+The first version of this essay contained an error, sadly involving the usage of pi, the part the
+essay itself is named after! Sigh. Thanks to Jeffrey Priebe for pointing it out.
+
+https://twitter.com/jeffreypriebe/status/1495060161597038597
+-->
 
 Euclidean geometry is also no longer considered to be the highest
 standard of rigor. It's interesting to look at a modern mathematical
