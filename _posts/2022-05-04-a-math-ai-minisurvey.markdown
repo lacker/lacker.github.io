@@ -39,7 +39,7 @@ Metamath was simple enough they could just implement their
 own.
 
 Still, if you can only search for 128 steps, there are single Lean
-tactics that are fewer Metamath steps than that.
+tactics that will expand to more Metamath steps than that.
 
 ## [Polu 2022](https://openai.com/blog/formal-math/)
 
