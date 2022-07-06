@@ -1,0 +1,129 @@
+---
+layout: post
+title: "H1 Review"
+date: 2022-07-06 16:00:00
+categories: life
+---
+
+About six months ago I made some [New Year's
+resolutions](/life/2021/12/31/resolutions.html), and I thought I might
+write a Q1 update, but here we are six months later and I haven't
+written anything about how it's going. So... it's an H1 update.
+
+## 1. Calorie Counting
+
+Man this one is going well. This is the most effective diet I've ever
+been on, and I've been sticking on it for six months. It's pretty
+simple to describe - I just count calories, using the default iOS
+health app. I am actually below the official government "not
+overweight" line for the first time in my adult lifetime.
+
+So, yeah, great, I just need to keep it up.
+
+It's somewhat less simple in practice than it is in theory. It's
+really not straightforward to figure out how many calories are in a
+given food. Even the best information on the internet will not be
+accurate to within about 20%. The "counting" isn't the hard part, it's
+the "estimating calories for a given food item" that is the source of
+errors.
+
+I also just haven't been drinking very much. Two days this past six
+months.
+
+## 2. Astronomy Publication
+
+I don't think this goal is on track. Six months ago I thought it was
+plausible for my work on processing the [Green
+Bank](/physics/2022/06/04/a-trip-to-green-bank.html) data to get
+rolled up into some summary paper, soon, describing our work on SETI
+search there. But, it's looking like there isn't a critical mass of
+people who want to work towards publishing a big analysis of Green
+Bank data this year.
+
+I'm shifting the strategy here a bit. I'm focusing on this [new
+repository](https://github.com/lacker/seticore) of SETI-search and
+general radio astronomy algorithms, with two main principles.
+
+1. Faster than any alternative, via writing in C++ and CUDA
+2. Full support for interferometer arrays
+
+My goal is to get this new software adopted as the production SETI
+search library for both
+[MeerKAT](https://en.wikipedia.org/wiki/MeerKAT) and the
+[VLA](https://en.wikipedia.org/wiki/Very_Large_Array) by the end of
+the year. These are interferometers rather than big single dishes,
+these are the new hotness, I should really write some separate blog
+post on just "what are interferometers".
+
+I'm less focused on "what algorithm exactly is it running". I have a
+lot of ideas for algorithmic improvements, but everyone has a lot of
+ideas for algorithmic improvements. There are dozens of cooks in this
+kitchen. The limiting factor is the ability to implement search
+algorithms, and to implement them efficiently enough to actually run
+them on the scale of terabytes-per-minute.
+
+So, if there arises a consensus in the scientific community that
+algorithm X would be a fantastic way to analyze incoming radio
+telescope data, I'd be interested in writing an efficient
+implementation of X, and integrating that into seticore.
+
+I'm also less focused on "publication". That'll come in time and I
+don't really want to work on a publication just for the sake of
+getting a publication - there's too much of that in academic-world
+already.
+
+## 3. Exercise
+
+I've just been cranking along here. Working out four times a week is a
+pretty regular part of my routine now.
+
+It's funny, I don't really think exercising has helped me lose
+weight. It just doesn't seem like it correlates. But the reverse is
+definitely true - losing weight helps me exercise better. I have
+somewhat more endurance, and way more ability to do pullups.
+
+I do think that exercising gives you more energy through the next
+day. Same with not drinking. My energy level the next morning is
+really boosted when I exercise and when I don't drink.
+
+## 4. Blogging
+
+I'm a little behind on this one. Just a couple weeks behind, though. I wrote a
+[script](https://github.com/lacker/lacker.github.io/blob/master/score.sh)
+to compare how I'm doing.
+
+I used to blog and try hard to get people to read it. I just don't
+have the mental energy to do that every week. And it's a totally
+different blog post. The stuff people want to read is like, zingers
+about Uber when Uber has been in the news. Thumbnails of GPT-3 which
+are easy to exaggerate.
+
+The stuff I want to write is like, I read some books about the history
+of Mexico, now I have all this information swimming in my brain, and I
+feel like I should do something with it. I need to get it out, need to
+stop just thinking random uncorrelated thoughts on the topic and see
+if I can boil down what I really think. I want to reflect on the Drake
+Equation or AIs playing board games or the importance of slug welfare.
+
+So, I am just not going to try to get people to read this. Not now, at
+least. But I'm going to keep writing. I'll try to catch back up - I
+fell behind when I caught Covid a couple weeks ago.
+
+## Looking Forward
+
+I'm feeling pretty good about the whole resolution
+thing. Calorie-counting has been a great success, astronomy
+publication has not been a success but on a meta-level I feel like the
+explicit goal-setting process was useful there because it made me
+think a bit harder about what to focus on.
+
+It's funny because at Google and Facebook I really hated the
+performance review cycle. One of the worst parts of working for a big
+company. But I like the process of having goals and being tough on
+yourself for not hitting them. I just hated being reminded that I was in
+a system where some other person's opinion of my performance was really
+important to me. Every single time it would make me think, I wish I
+wasn't working here. I should quit. I should be testing myself against
+what I can achieve in the world, not against what some coworker thinks.
+
+Onward to H2. I'll aim to do a similar writeup at the end of the year.
