@@ -37,7 +37,7 @@ even possible.
   solutions like `unique_ptr` that are more complicated than any
   reasonable language offers.
   
-# The Not So Bad
+## The Not So Bad
   
 At least C++ is getting better. The last time I wrote a lot of C++ was
 working for Google, 2005-2009, and I don't think we had even fully
@@ -49,7 +49,7 @@ mostly avoid remembering to delete your own pointers. `mutex` and
 common things. Not like Python or JavaScript where you have solutions
 for everything, but it's a lot better than nothing.
 
-# The Actually Good
+## The Actually Good
 
 So why C++ at all? Well, this is my favorite API of the week:
 
@@ -94,7 +94,7 @@ if you're curious for more detail, but basically this code is
 multiplying sequences of matrices that you've stored in some regular
 way in memory.
 
-# Blub
+## Blub
 
 I feel like this is why I always end up developing in Blub
 nowadays. I'm never choosing programming languages based on the most
