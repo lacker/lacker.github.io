@@ -6,10 +6,10 @@
   <meta name="twitter:creator" content="@lacker" />
   
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | newline_to_br | strip_newlines | replace: '<br />', ' ' | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
-  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | newline_to_br | strip_newlines | replace: '<br />', ' ' | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:image" content="https://lacker.io/assets/leo_on_chest.jpg" />
   
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">

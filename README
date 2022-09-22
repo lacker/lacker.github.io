@@ -1,3 +1,10 @@
+To get this set up on a new machine:
+
+```
+sudo apt-get install jekyll
+gem install jekyll-paginate
+```
+
 To run the site locally:
 
 `jekyll serve`
