@@ -1,0 +1,104 @@
+---
+layout: post
+title: "2022 Review"
+date: 2023-01-02 12:00:00
+categories: life
+---
+
+Last year I made some [New Year's
+resolutions](/life/2021/12/31/resolutions.html). Let's take a look at how they did.
+
+
+## 1. Calorie Counting
+
+I got weak at actually counting calories toward the end and skipped
+like half of December. But I did a lot better than I expected at
+losing weight. Somehow I am reluctant to
+make an explicit weight goal on here, but the bottom line is to get
+healthier and for getting healthier for an overweight guy, there is a
+very logical metric of losing weight. So let's just get past
+that. I've been tracking my weight with the iOS health app for a while
+and per year my average has been:
+
+* 2016: 231.0
+* 2017: 227.4
+* 2018: 210.3
+* 2019: 213.4
+* 2020: 218.3
+* 2021: 218.0
+* 2022: 191.8
+
+A bit of an improvement after I left Facebook. But really this past
+year has been a huge improvement. The main danger is backsliding,
+which is a big danger since calorie-counting is so annoying. From
+here, I just need to "maintain".
+
+## 2. Astronomy Publication
+
+Overall I missed this goal. I think the Green Bank work will end up in
+a paper, just not
+during 2022. I think [seticore](https://github.com/lacker/seticore)
+will end up as the core signal processing component for the
+[MeerKAT](https://en.wikipedia.org/wiki/MeerKAT) pipeline, but
+probably just a small part of the 
+[VLA](https://en.wikipedia.org/wiki/Very_Large_Array) pipeline, and
+nothing is really functional here at end-of-year 2022, PR
+announcements notwithstanding.
+
+I'm glad I set this goal. I'm a little frustrated that I don't really
+see an obvious path for improvement in retrospect. Maybe this is a
+sign that I should shift some of my mental energy elsewhere. I like
+this astronomy work, but it is often the sort of project that
+naturally has a certain amount of stuff to do, and after some point
+there are diminishing returns. I guess this is a result of working on
+things with a lot of other people.
+
+## 3. Exercise
+
+This is just a normal part of my routine now. I'm happy with it. I
+stalled in terms of how much weight I can lift, but I've been adding
+more rowing machine to my routine, which seems pretty good. All in
+all, success.
+
+## 4. Blogging
+
+Well, after being slightly behind at the end of H1, my blogging just
+totally collapsed. I lost the will to fight for this one. I like
+blogging, or at least I like the sort of reflecting on things that I
+do while blogging, but blogging ends up being something I can do with
+my most productive mental energy. I'm sitting down, ready to work, and
+I could fire into anything, and blogging is one of those things. But
+it's never really the most important thing I want to do on a
+particular day. Or if it is, it's because of some artificial thing. I
+don't know.
+
+So, I missed this goal too, but really because I stopped wanting to do
+it, more than because I stopped feeling able to do it. Different from
+the astronomy publication one.
+
+## 5. Secret resolution?
+
+One thing I randomly started doing is Duolingo, at which I have
+approximately a year streak. I started it sort of in the spirit of
+resolutions but I didn't make a real resolution for it. I feel good
+about that although I'm a little worried it's too superficial, like it
+just teased some of my ancient Spanish learning back into my
+forebrain, rather than necessarily giving me enough to do anything.
+
+## Looking Forward
+
+Resolutions are great. I'll do another set for this year.
+
+The personal health stuff worked really well. The intellectual
+accomplishment stuff, not so well. But that's partially because my
+personal health goals are like, "decent health", and my intellectual
+accomplishment goals are like, "I need to push myself to excel".
+
+It's also because I have a more functional set of habits around things
+like reading books and coding. I just enjoy that and do it fairly
+regularly. I don't really need or want resolutions to mess with it.
+
+Maybe I should have some separate set of things which is "the
+routine", which is good, and I need to keep doing it, but I don't need
+to make resolutions for it. I mean, I guess I have that? Should I
+write it down? I don't know. I'll think about it a bit.
