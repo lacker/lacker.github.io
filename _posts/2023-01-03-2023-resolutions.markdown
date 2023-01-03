@@ -1,0 +1,76 @@
+---
+layout: post
+title: "Resolutions for 2023"
+date: 2023-01-03 14:00:00
+categories: life
+---
+
+My resolutions from last year [went pretty
+well](/life/2023/01/02/2022-review.html) so let's do that again.
+
+## 1. Health
+
+I plan to keep working out four times a week, but this is enough of a
+habit that I feel like I don't need to "resolve" to do it. Diet-wise,
+my target weight is below 189. Counting calories is the most
+straightforward way I've found to achieve this, but I want to be clear
+about the metric that I most care about here.
+
+## 2. Astronomy
+
+Last year I hoped to get on a publication for Green Bank work. That's
+been delayed but I still hope to get it done this year. Plus, I'd also
+like to get a publication from my MeerKAT work. So, two parts to this
+goal.
+
+A publication isn't really the ultimate goal here. The ultimate goal
+is to find aliens. But barring that, I'd like to have the MeerKAT
+pipeline up and operational, getting daily or weekly notifications for
+the best candidates, basically the way a sane astronomy data pipeline
+should be operating. I think there will probably be some paper as a
+side effect because a lot of other people desire papers. So
+publication seems like a decent proxy goal.
+
+## 3. AI
+
+I think I should get more "into the AI space". I have some ideas, but
+I want to stay open to flex around different ideas. In 2023 my goal is
+to release a "respectable AI project".
+
+What makes it respectable? I'll know it when I see it. Something that
+I would respect if someone else did it.
+
+I'm thinking about the math-theorem-proving space; I'll start off
+trying some stuff there.
+
+## 4. Spanish
+
+My goal is to learn enough Spanish to read Ficciones in Spanish. I
+bought the book on Kindle many years ago and realized my Spanish
+wasn't good enough. I've been doing Duolingo for about a year, but
+it's really just been a refresh of my high school Spanish, and I need
+to push harder to get it better.
+
+Why learn Spanish? I feel like there's an intellectual value in
+learning a second language that's hard to describe. Your primary
+language is the filter through which you see so much of the
+world. Isn't it strange that you can load up a second one?
+
+I love learning new programming languages and I feel like I get a lot
+from that. I also love reading books. So maybe I will get something
+from a second language.
+
+I don't think I should just start off plowing through the book, I
+should start with a harder push on Duolingo, at least get my verb
+tense knowledge solidified, maybe aim for better vocabulary too.
+
+## 5. Secret resolution
+
+I also have a secret resolution! But it's secret.
+
+## Now what?
+
+I'll see how much I feel like giving updates. Last year I did a mid
+year one and that seemed just fine. The main value of the update was
+that I lost some energy to write blog posts and gained some energy to
+switch around the sort of astronomy project I was working on.
