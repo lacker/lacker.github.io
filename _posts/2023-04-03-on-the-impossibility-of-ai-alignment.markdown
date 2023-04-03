@@ -174,5 +174,10 @@ systems](https://securityboulevard.com/2019/03/provably-secure-operating-systems
 has been around for decades. But it has always been too hard to get
 working for more than toy problems.
 
+Perhaps AI itself could help us build these restricted systems. AI
+could get really good at scanning code for vulnerabilities, good
+enough so that it was able to sign off on most code bases, and say "We
+can prove there are no security flaws here."
+
 Anyway, not that this is easy or anything. I just think it's a more
 plausible alternative approach to the "alignment" problem.
