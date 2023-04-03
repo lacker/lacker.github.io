@@ -167,7 +167,7 @@ we solve the halting problem here.
 
 So. It is theoretically possible to have a function, 1000 lines of
 Python code, and prove that no matter what, it will not print out the
-word "paperclip". I think it should much easier than proving something is
+word "paperclip". I think it should be much easier than proving something is
 "aligned" in a fuzzy way. But right now, this is more or less beyond our
 abilities. The idea of [provably secure
 systems](https://securityboulevard.com/2019/03/provably-secure-operating-systems/)
