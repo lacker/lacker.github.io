@@ -1,0 +1,80 @@
+---
+layout: post
+title: "2023 Review"
+date: 2024-01-29 12:00:00
+categories: life
+---
+
+I feel a bit detached from my resolutions for last year. Like I have
+to drag myself into considering them. A quick review.
+
+## 1. Health
+
+I'll give myself a "does not meet expectations". It sounds bad when I
+put it like that, huh. Well, I was below my 189 weight target for 4/12
+months of the year. Yearly average 189.3 so it wasn't a complete
+disaster. So, maybe given your typical performance review grade
+inflation we'd call this a "meets expectations", but the sort of
+meeting expectations where you hint that you really do expect more out
+of them.
+
+Basically, I can tell I'm backsliding. I need to step this back up in 2024.
+
+## 2. Astronomy
+
+The [seticore](https://github.com/lacker/seticore) software I've been
+working on is running at a few different radio telescopes around the
+world. We have a publication for the SETI work at Green Bank (West Virginia)
+[here](https://iopscience.iop.org/article/10.3847/1538-3881/acf576)
+and also one for the work at the
+VLA (New Mexico) [here](https://arxiv.org/abs/2310.09414).
+
+Not one for MeerKAT unfortunately. The MeerKAT pipeline isn't as
+operational as I'd like it to be. I feel like progress on this is
+mostly out of my hands, at this point, though.
+
+## 3. AI
+
+I've been working on an AI project that I'm really excited about. My
+mental energy is going into this right now. I haven't
+actually launched something usable as I was hoping to. I feel like I
+don't quite know how to set goals, or how to tie progress into goals
+here. But I want to write that sentence in a very positive, mentally
+engaged way. Maybe this requires its own blog post.
+
+## 4. Spanish
+
+I completely cannot read Ficciones in Spanish. This is just many
+levels above my Spanish ability. I've continued to Duolingo and got a
+few books of varying difficulty, but after trying I realized that not
+only can I not read Ficciones, I can't read things that are a more
+casual-adult level.
+
+I don't really feel bad about this as much as I feel like I
+completely underestimated how hard I would find this to be.
+
+This year I have plans to travel to both Mexico and Costa Rica, so
+perhaps I'll try to chat more with the locals, use my medium Spanish
+skills in a rewarding way. I'm going to kind of downgrade this as a
+goal, though. More like something to just do for fun rather than
+something to remind myself to work on, any more than the Duolingo
+notification ping. Honestly that is a pretty good compromise, just
+spend a couple minutes daily keeping it warm and reminding myself that
+foreign languages exist.
+
+## 5. Secret resolution
+
+Went great, really fantastic. Trust me.
+
+## Now what?
+
+I really want to make this AI project work. I want to be focused. It
+feels like a mistake to put anything else at "resolution level"
+for 2024. And yet I have a hard time setting specific goals, or even
+explaining the current state of things.
+
+I've been delaying the past few weeks talking about resolutions
+partially because of my inability to express this well. The best I have is, in
+lieu of "specific 2024 resolutions" I would like to express that I
+intend to focus on AI this year, and I promise to write another blog
+post by the end of February about this AI project.
