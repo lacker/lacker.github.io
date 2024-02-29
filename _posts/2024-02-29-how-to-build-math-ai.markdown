@@ -71,7 +71,7 @@ anyway.)
 These trees need an underlying representation of mathematical
 statements. The best one is
 [Lean](https://leanprover-community.github.io/),
-a "proof assistant / ?programming language".
+a "proof assistant / programming language".
 
 There are two core problems that make me think that the right strategy
 is not just scaling up HTPS. One is that Lean tactics are slow and in
