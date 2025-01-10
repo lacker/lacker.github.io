@@ -12,7 +12,7 @@ For graduate school, I went to UC Berkeley, intending to get a CS PhD, but dropp
 
 In 2010, I started a startup, Gamador, which raised Y Combinator funding. We made Facebook games, it made a little bit of money, and I learned a lot, but we didn't grow fast enough to be a big success.
 
-In 2011, I started a developer tools startup, Parse, as the CTO. We focused on the developer experience, becoming the easiest way to add a backend to your mobile application. Parse raised money from Y Combinator, and then again through a series A. We had explosive success and were acquired by Facebook in 2013 for $85 million, where I continued to work on Parse through 2017.
+In 2011, I started a developer tools startup, Parse, as the CTO. We focused on the developer experience, becoming the easiest way to add a backend to your mobile application. Parse raised money from Y Combinator, and then again through a series A. We had explosive growth and were acquired by Facebook in 2013 for $85 million, where I continued to work on Parse through 2017.
 
 For the next few years, I worked on a cryptocurrency, Axiom, which sadly did not become popular.
 
