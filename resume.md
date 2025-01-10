@@ -10,9 +10,9 @@ As a student, I loved math and math competitions. In high school, I made the IMO
 
 For graduate school, I went to UC Berkeley, intending to get a CS PhD, but dropped out to go to Google, which had just IPO'd. I worked at Google from 2005-2009, on the search quality team, working on tools for evaluating algorithm quality, and algorithmic changes including AI to analyze web pages. (Pre-neural-net AI, to be fair.)
 
-In 2010, I started a startup, Gamador, which raised YCombinator funding. We made Facebook games, it made a little bit of money, and I learned a lot, but we didn't grow fast enough to be a big success.
+In 2010, I started a startup, Gamador, which raised Y Combinator funding. We made Facebook games, it made a little bit of money, and I learned a lot, but we didn't grow fast enough to be a big success.
 
-In 2011, I started a developer tools startup, Parse, as the CTO. Parse focused on the developer experience, becoming the easiest way to add a backend to your mobile application. We had explosive success and were acquired by Facebook in 2013 for $85 million, where I continued to work on Parse through 2017.
+In 2011, I started a developer tools startup, Parse, as the CTO. We focused on the developer experience, becoming the easiest way to add a backend to your mobile application. Parse raised money from Y Combinator, and then again through a series A. We had explosive success and were acquired by Facebook in 2013 for $85 million, where I continued to work on Parse through 2017.
 
 For the next few years, I worked on a cryptocurrency, Axiom, which sadly did not become popular.
 
