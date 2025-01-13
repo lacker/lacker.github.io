@@ -71,7 +71,7 @@ fundamentally about rewriting. As opposed to questions of the form
 
 ## What can we do about it?
 
-orked on the Lean [rewrite_search tactic](https://github.com/leanprover-community/mathlib/blob/master/src/tactic/rewrite_search/explain.lean) for a while. It didn't
+I worked on the Lean [rewrite_search tactic](https://github.com/leanprover-community/mathlib/blob/master/src/tactic/rewrite_search/explain.lean) for a while. It didn't
 end up as useful as I had hoped. The main problem is that there are so
 many possible ways to rewrite a formula, you can't use a plain
 breadth-first search and get very far. We need to be using AI
